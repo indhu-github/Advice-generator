@@ -86,7 +86,7 @@ main {
   color: var(--Green);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 668px) {
   .divider_desktop {
     display: none;
   }

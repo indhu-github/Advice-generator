@@ -1,5 +1,7 @@
 # Frontend Mentor - Advice generator app
 
+Live URL : https://indhu-github.github.io/Advice-generator/
+
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
